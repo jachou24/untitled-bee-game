@@ -1,3 +1,5 @@
+*** Watch the code demo video to see real gameplay! ***
+
 Inspired by the popular indie puzzle stealth game, Untitled Goose Game.
 
 Tiny bee, huge adventure.
